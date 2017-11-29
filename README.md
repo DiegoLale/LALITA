@@ -1,2 +1,5 @@
 # LALITA
-a foldable 3D REPRAP printer
+
+Impresora 3d plegable.
+
+Instrucciones de montaje en la wiki (en construcción)
